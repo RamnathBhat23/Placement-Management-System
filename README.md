@@ -29,3 +29,11 @@ Main Users for this Project are:
 5) Get an Breif Overview of His Placement Data.
 
 -------------------------------------------------
+---------------------------------
+# TECHNOLOGIES USED
+---------------------------------
+1) Frontend - HTML,CS,javaScript
+2) Backend  - PHP
+3) Database - MySQL
+
+---------------------------------
