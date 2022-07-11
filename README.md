@@ -8,19 +8,19 @@ Main Users for this Project are:
 2) Admin(Training and Placement Officer)
 
 -------------------------------------------------------------------------------------------
-Utilities for Admin
+# Utilities for Admin
 --------------------------------------------------------------------------------------------
 1) Create and Manage Sub admins
-2) Add and Remove MOUS WRT to college
-3) Add, Update, Delete Company Details
-4) Add, Update, Delete Job Details
-5) Get Overview of Placement Activities and Student Details
-6) Get Overview of Company wise,Department Wise, Job wise, Year wise Placement Details.
+2) Add, Update, Delete Company Details
+3) Add, Update, Delete Job Details
+4) Get Overview of Placement Activities and Student Details
+5) Get Overview of Company wise,Department Wise, Job wise, Year wise Placement Details.
+6) Add and Remove MOU's with College
 
 ---------------------------------------------------------------------------------------------
 
 ------------------------------------------------
-Utilities for Student
+# Utilities for Student
 ------------------------------------------------
 1) Create His Account
 2) Add, Update, Delete Account Details
