@@ -36,3 +36,10 @@ Main Users for this Project are:
 3) Database - MySQL
 
 ---------------------------------
+
+--------------------
+# COLLABORATORS
+--------------------
+   RAMNATH BHAT
+   RAMNATH NAYAK
+--------------------
