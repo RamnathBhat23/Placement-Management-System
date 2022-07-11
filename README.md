@@ -1,6 +1,5 @@
 # Placement-Management-System
 ---------------------------------
-
 Objective for this project is to build an interface to reduce the manual work for managing Student,Company and Job Details in a Hassle Free Manner.
 
 Main Users for this Project are:
@@ -32,7 +31,7 @@ Main Users for this Project are:
 ---------------------------------
 # TECHNOLOGIES USED
 ---------------------------------
-1) Frontend - HTML,CS,javaScript
+1) Frontend - HTML, CS, JavaScript
 2) Backend  - PHP
 3) Database - MySQL
 
